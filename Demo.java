@@ -4,6 +4,6 @@ public class Demo extends Alpha {
 	
 	static void test () 
 	{
-		System.out.println("Mane");
+		System.out.println("Ruturaj Mane");
 	}
 }
