@@ -9,6 +9,6 @@ public class Hydrabad extends Delhi
 	}
 	public void Demo() 
 	{
-		System.out.println("Rajgad");
+		System.out.println("Raigad");
 	}
 }

@@ -6,12 +6,12 @@ public class Delhi
 	public void Test(char r ) 
 	 
 	{
-		System.out.println("Jalsa"+ r);
+		System.out.println("Matoshree"+ r);
 	}
 	
 	public void Demo() 
 	{
-		System.out.println("Mannat");
+		System.out.println("Krushnakunj");
 	}
 	
 }
